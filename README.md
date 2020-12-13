@@ -1,5 +1,5 @@
 # DRG_Barrel-Minigame
-A simple copy of the barrel minigame mechanic of Deep Rock Galactic.
+A simple copy of the barrel minigame mechanic of Deep Rock Galactic made with Unity.
 
 # Play Now
 https://yigitduman.itch.io/drg-barrel-minigame
