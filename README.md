@@ -1,5 +1,5 @@
 # DRG_Barrel-Minigame
-A simple replica of the barrel game of Deep Rock Galactic.
+A simple copy of the barrel minigame mechanic of Deep Rock Galactic.
 
 # Play Now
 Link will be added
